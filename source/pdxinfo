@@ -1,0 +1,6 @@
+name={{Template}}
+author={{Author}}
+description={{Description}}
+bundleID=com.example.test
+version=0.0.1
+buildNumber=1
